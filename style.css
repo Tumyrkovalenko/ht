@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(12, 11, 11);
+    color: beige;
+}
+article{
+    padding: 20px;
+}
+article img{
+    width: 250px;
+    height:auto;
+    margin-right:15px ;
+   float:left ; 
+}
+.clear{
+    clear: both;
+margin-bottom:50px ;
+}
